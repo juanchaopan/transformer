@@ -1,0 +1,6 @@
+pandas
+sentencepiece
+datasets
+torch
+lightning
+tensorboard
