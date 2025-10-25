@@ -7,7 +7,7 @@ from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 
 from ELEC825Dataset import WikimediaDataset, HuggingFaceDataset
-from ELEC825Transformer2 import Transformer
+from ELEC825Transformer import Transformer
 
 
 def collate(batch):
